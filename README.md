@@ -7,12 +7,11 @@ Pre-requisites to run the program
     1. PublishToDataStore.js and
     2. FindAverageCpuUsage.js 
 2. Create a trigger in UI for PublishToDataStore.js
-    1. Screenshot of my trigger ![Screenshot of my trigger](https://github.com/varoonpartha04/ClearBlade-Assignment/blob/master/docs/Screen_Shot_of_Trigger.png)
-
+    1. ![Screenshot of my trigger](https://github.com/varoonpartha04/ClearBlade-Assignment/blob/master/docs/Screen_Shot_of_Trigger.png)
     2. Link to my trigger(https://platform.clearblade.com/console/system/b4bab3e70baaaa8cae8397bff6be01/code/services/PublishToDataStore?tab=Triggers) 
 3. Create Timer in UI for FindAverageCpuUsage.js
-    1. Screenshot of my timer 
-    2. Link to my trigger(https://platform.clearblade.com/console/system/b4bab3e70baaaa8cae8397bff6be01/code/services/FindAverageCpuUsage?tab=Timers)
+    1. ![Screenshot of my timer](https://github.com/varoonpartha04/ClearBlade-Assignment/blob/master/docs/Screen_Shot_of_Timer.png) 
+    2. Link to my timer(https://platform.clearblade.com/console/system/b4bab3e70baaaa8cae8397bff6be01/code/services/FindAverageCpuUsage?tab=Timers)
 
 
 Steps to run the program 
