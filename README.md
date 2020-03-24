@@ -10,7 +10,7 @@ Pre-requisites to run the program
     1. Screenshot of my trigger 
     2. Link to my trigger(https://platform.clearblade.com/console/system/b4bab3e70baaaa8cae8397bff6be01/code/services/PublishToDataStore?tab=Triggers) 
 3. Create Timer in UI for FindAverageCpuUsage.js
-    1. Screenshot of my trigger 
+    1. Screenshot of my timer 
     2. Link to my trigger(https://platform.clearblade.com/console/system/b4bab3e70baaaa8cae8397bff6be01/code/services/FindAverageCpuUsage?tab=Timers)
 
 
